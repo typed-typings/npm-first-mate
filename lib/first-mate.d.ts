@@ -1,13 +1,9 @@
-import GrammarS = require('./grammar');
-import GrammarRegistryS = require('./grammar-registry');
-import ScopeSelectorS = require('./scope-selector');
-import GrammarEventHandlerS = require('./grammar-event-handler');
+import Grammar = require('./grammar');
+import GrammarRegistry = require('./grammar-registry');
+import ScopeSelector = require('./scope-selector');
+import GrammarEventHandler = require('./grammar-event-handler');
 
-declare namespace FirstMate {
-  export class Grammar extends GrammarS {}
-  export class GrammarRegistry extends GrammarRegistryS {}
-  export class ScopeSelector extends ScopeSelectorS {}
-  export interface GrammarEventHandler extends GrammarEventHandlerS {}
-}
-
-export = FirstMate;
+export {Grammar}
+export {GrammarRegistry}
+export {ScopeSelector}
+export {GrammarEventHandler}
