@@ -10,6 +10,6 @@
     "blue-tape": "registry:npm/blue-tape#0.2.0+20160418015423"
   },
   "dependencies": {
-    "event-kit": "registry:npm/event-kit#2.0.0+20160526055758"
+    "event-kit": "registry:npm/event-kit#2.0.0+20160601195915"
   }
 }
