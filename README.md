@@ -1,5 +1,7 @@
 # Typed First Mate  [![Build Status](https://travis-ci.org/typed-typings/npm-first-mate.svg?branch=master)](https://travis-ci.org/typed-typings/npm-first-mate)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-first-mate.svg)](https://greenkeeper.io/)
+
 
 The type definition for [`first-mate`](https://github.com/atom/first-mate.git)
 
