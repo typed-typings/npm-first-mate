@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "blue-tape": "^1.0.0",
-    "first-mate": "7.0.4",
+    "first-mate": "7.0.5",
     "onchange": "^3.2.1",
     "tap-spec": "^4.1.1",
     "ts-node": "^3.0.3",
